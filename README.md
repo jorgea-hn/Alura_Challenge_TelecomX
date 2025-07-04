@@ -61,7 +61,7 @@ Jorge Henriquez Novoa
 Ingeniero Electrónico, Analista de Datos  
 Barranquilla, Colombia
 
-Contacto: tu_email@example.com
+Contacto: jorgeahenriqueznovoa@gmail.com
 
 ---
 
